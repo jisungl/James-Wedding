@@ -13,8 +13,13 @@ My contributions were in:
 - routes.ts
 - routes_test.ts
 
+Developed a full-stack wep application using React and Node.js to manage wedding guest lists. Implemented core functionality on the client side: forms to add guests, edit guest details, customize dietary restrictions, and include plus-ones.
+
+Wrote fetch logic to handle client-server communication and updated React components based on server response. Synced client and server state to ensure data persistence through browser reloads
+
 **Features**
 - Add guests and their plus-ones, labeled as the guest(s) of either bride or groom
 - Guests can be labeled as family
 - Approximation of total guests
 - Dietary restrictions for each guest
+
